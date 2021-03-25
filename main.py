@@ -1,2 +1,3 @@
 # author: Serj Stetsky
-print("Hello, world") # print Hello, world
+from printlib import say_hi
+say_hi("world")
